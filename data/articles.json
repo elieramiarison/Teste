@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "title": "Premier Article",
+        "description": "Une introduction au blog",
+        "image": "/images/test.png",
+        "content": "Contenu complet de l’article...",
+        "createdAt": "2025-04-01T10:00:00Z"
+    },
+    {
+        "id": "2",
+        "title": "Deuxième Article",
+        "description": "Encore plus de contenu",
+        "image": "/images/teste.png",
+        "content": "Du contenu intéressant...",
+        "createdAt": "2025-04-03T15:00:00Z"
+    }
+]
